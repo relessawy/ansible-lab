@@ -18,4 +18,4 @@ The Jenkins pipeline flow is as follows
 
 The other piece of codes that was used for the demo can be found at this [repo](https://github.com/eanylin/test-quarkus)
 
-The YouTube video can be found at this [link](https://youtu.be/sBWlR9zFBdI)
+
